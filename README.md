@@ -25,8 +25,8 @@ Ennek az oldalnak a célja hogy az IKs dalokat verseket és egyéb hasonló agym
 
 //TODO
   - Tabbed pages
-  --Dalok
-  --Versek
-  --Egyebek
+    --Dalok
+    --Versek
+    --Egyebek
   - Jobb oldalt gomb "Beküldés/Upload/Feltöltés/akármi..."
   - User rendszer (admin, common)
